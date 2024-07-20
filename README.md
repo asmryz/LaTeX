@@ -1,4 +1,6 @@
-# latex-on-ci-cd
-Compile latex files  and release PDF output using Github Actions 
+```sh
+latest ref 7e257e6  main -> main
 
-Blog Post: https://mrturkmen.com/posts/build-release-latex/
+$ git tag v1.0.0 7e257e6
+$ git push origin --tags
+```
